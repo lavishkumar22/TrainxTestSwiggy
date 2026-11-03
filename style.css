@@ -150,17 +150,8 @@
         justify-content: center;
         align-items: center;
         gap: 15px;
-        padding-top: 1%;
+        padding-top: 7%;
     }
-    .para p{
-        color: white;
-        font-size: 50px;
-        padding-top: 20px;
-        display:flex;
-        justify-content:center;
-        align-items:center;
-    }
-
     .but button {
         background-color: orangered;
         color: white;
