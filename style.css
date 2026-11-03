@@ -153,10 +153,12 @@
         padding-top: 1%;
     }
     .para p{
-       font-size:20px;
-       display:flex;
-       justify-content:center;
-       align-items:center;
+        color: white;
+        font-size: 50px;
+        padding-top: 20px;
+        display:flex;
+        justify-content:center;
+        align-items:center;
     }
 
     .but button {
